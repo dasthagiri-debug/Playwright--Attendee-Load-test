@@ -1,0 +1,28 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "logo" [ref=e6] [cursor=pointer]
+      - button "Login" [ref=e7] [cursor=pointer]:
+        - text: Login
+        - img [ref=e9]
+    - generic [ref=e14]:
+      - heading "Turn webinars into revenue." [level=6] [ref=e15]
+      - paragraph [ref=e16]: Launch in minutes with EasyWebinar AI.
+      - button "Continue with Google" [ref=e17] [cursor=pointer]:
+        - img [ref=e18]
+        - paragraph [ref=e24]: Continue with Google
+      - generic [ref=e25]:
+        - img [ref=e27]
+        - paragraph [ref=e29]: Takes less than 60 seconds
+      - button "Continue with Email" [ref=e30] [cursor=pointer]
+      - paragraph [ref=e31]:
+        - text: By continuing, you agree to our
+        - link "Terms of Service" [ref=e32] [cursor=pointer]:
+          - /url: https://easywebinar.com/terms-conditions/
+        - text: and
+        - link "Privacy Policy" [ref=e33] [cursor=pointer]:
+          - /url: https://easywebinar.com/privacy/
+      - paragraph [ref=e34]:
+        - generic [ref=e35]: Already have an account?
+        - button "Log in" [ref=e36] [cursor=pointer]
+  - region "Notifications Alt+T"

@@ -1,0 +1,329 @@
+[    2454ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[    2490ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[    3069ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[    3534ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[    3539ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[    4064ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[    4147ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[    4148ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[    4381ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/session:0
+[    4421ms] XMLHttpRequest
+[    4502ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[    4630ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[    4703ms] [LOG] IN @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[    4703ms] [LOG] India @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[    4912ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[    4955ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[   17758ms] [LOG] %c [UTS] No NF on page color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[   62169ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[   97976ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[   98026ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[   98489ms] [LOG] IN @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[   98489ms] [LOG] India @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[   98695ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[   98763ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481&bs=ctrl:217
+[   99026ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[   99027ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[   99094ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481&bs=ctrl:290
+[   99187ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481&bs=ctrl:242
+[   99225ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[   99226ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[   99644ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[   99647ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[   99717ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[   99994ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  101103ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  104476ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  104499ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  104638ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  104694ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  104761ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  104859ms] [LOG] IN @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  104859ms] [LOG] India @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  104997ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  104997ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  104999ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  105156ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  105156ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  105179ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  105183ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  105230ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  105707ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  105902ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  110502ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  110521ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  110582ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  110607ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  110643ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  110976ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  110995ms] [LOG] IN @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  110995ms] [LOG] India @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  111022ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  111022ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  111319ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  111319ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  111326ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  111329ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  111502ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  111561ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  111895ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  116491ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  116508ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  116580ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  116602ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  116642ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  116825ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  116952ms] [LOG] IN @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  116952ms] [LOG] India @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  117022ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  117022ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  117073ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  117073ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  117317ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  117320ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  117385ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  117690ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  117885ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  122051ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  122061ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  122414ms] [LOG] IN @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  122414ms] [LOG] India @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  122569ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481&bs=ctrl2:217
+[  122628ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  122712ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481&bs=ctrl2:242
+[  122926ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  122926ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  122926ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  122926ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  122986ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481&bs=ctrl2:290
+[  123151ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  123166ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  123243ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  123700ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  123727ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  128341ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  128358ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  128460ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  128494ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  128529ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://accounts-uat.easywebinar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  128529ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[  128537ms] TypeError: Failed to fetch
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:257:272888
+    at ol (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:257332)
+    at zc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:277553)
+    at sc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:269812)
+    at Qr (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:210575)
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276349
+    at Mc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276354)
+    at nc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:268814)
+    at O (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303065)
+    at j (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303599)
+[  128540ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  128793ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  128801ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  128802ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  128815ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  128816ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  129546ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  130115ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  130120ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  130191ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  130455ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  133868ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  133878ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  134207ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://accounts-uat.easywebinar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  134207ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[  134223ms] TypeError: Failed to fetch
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:257:272888
+    at ol (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:257332)
+    at zc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:277553)
+    at sc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:269812)
+    at Qr (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:210575)
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276349
+    at Mc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276354)
+    at nc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:268814)
+    at O (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303065)
+    at j (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303599)
+[  134231ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  134256ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  134304ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  134603ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  134656ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  134657ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  134858ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  134860ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  134919ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  135208ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  135244ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  135245ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  135379ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  140000ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  140018ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  140086ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  140109ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://accounts-uat.easywebinar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  140109ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[  140114ms] TypeError: Failed to fetch
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:257:272888
+    at ol (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:257332)
+    at zc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:277553)
+    at sc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:269812)
+    at Qr (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:210575)
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276349
+    at Mc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276354)
+    at nc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:268814)
+    at O (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303065)
+    at j (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303599)
+[  140112ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  140152ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  140399ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  140453ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  140453ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  140658ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  140658ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  140843ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  140845ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  140943ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  141178ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  141433ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  145451ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  145462ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  145785ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://accounts-uat.easywebinar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  145785ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[  145795ms] TypeError: Failed to fetch
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:257:272888
+    at ol (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:257332)
+    at zc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:277553)
+    at sc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:269812)
+    at Qr (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:210575)
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276349
+    at Mc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276354)
+    at nc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:268814)
+    at O (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303065)
+    at j (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303599)
+[  145810ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  145836ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  145874ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  146145ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  146223ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  146225ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  146239ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  146240ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  146536ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  146539ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  146613ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  146935ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  146936ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  151458ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  151474ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  151541ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  151563ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://accounts-uat.easywebinar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  151563ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[  151569ms] TypeError: Failed to fetch
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:257:272888
+    at ol (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:257332)
+    at zc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:277553)
+    at sc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:269812)
+    at Qr (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:210575)
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276349
+    at Mc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276354)
+    at nc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:268814)
+    at O (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303065)
+    at j (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303599)
+[  151567ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  151604ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  151920ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  151968ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  151969ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  151992ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  151993ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  152294ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  152297ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  152373ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  152724ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  152728ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  166409ms] [LOG] %c [UTS] No NF on page color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  188426ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  188440ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  188803ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://accounts-uat.easywebinar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  188803ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[  188821ms] TypeError: Failed to fetch
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:257:272888
+    at ol (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:257332)
+    at zc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:277553)
+    at sc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:269812)
+    at Qr (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:210575)
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276349
+    at Mc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276354)
+    at nc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:268814)
+    at O (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303065)
+    at j (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303599)
+[  188842ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  188878ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  188954ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  189104ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  189343ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  189343ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  189353ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  189354ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  189906ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  190115ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  190120ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  190194ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  190497ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  195071ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  195097ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  195170ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  195194ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://accounts-uat.easywebinar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  195194ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[  195200ms] TypeError: Failed to fetch
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:257:272888
+    at ol (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:257332)
+    at zc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:277553)
+    at sc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:269812)
+    at Qr (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:210575)
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276349
+    at Mc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276354)
+    at nc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:268814)
+    at O (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303065)
+    at j (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303599)
+[  195197ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  195232ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  195422ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  195540ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  195543ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  195601ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  195602ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  195611ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  195665ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  195666ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  196142ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  196150ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  200823ms] [LOG] --------------------------------------- https://accounts-api-uat.easywebinar.com/api/v1 @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:256
+[  200835ms] [LOG] Chargebee initialized successfully @ https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:161
+[  201178ms] [ERROR] Access to fetch at 'https://ipapi.co/json/' from origin 'https://accounts-uat.easywebinar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  201178ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://ipapi.co/json/:0
+[  201195ms] TypeError: Failed to fetch
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:257:272888
+    at ol (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:257332)
+    at zc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:277553)
+    at sc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:269812)
+    at Qr (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:210575)
+    at https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276349
+    at Mc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:276354)
+    at nc (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:268814)
+    at O (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303065)
+    at j (https://accounts-uat.easywebinar.com/static/js/main.2dfab709.js:2:303599)
+[  201209ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=AW-1030214605&cx=c&gtm=4e6481:217
+[  201248ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-4218XDZV20&cx=c&gtm=4e6481:290
+[  201337ms] [ERROR] Creating a TrustedTypePolicy named 'goog#html' violates the following Content Security Policy directive because a TrustedTypePolicy with that name already exists and the directive does not contain'allow-duplicates': "trusted-types *". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-407QM081QG&cx=c&gtm=4e6481:242
+[  201434ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  201662ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://api.trstplse.com/v1/account/10975/notifications:0
+[  201663ms] [ERROR] [TrustPulse] This account does not have a site with the url: https://accounts-uat.easywebinar.com @ https://a.trstplse.com/app/js/api.min.js:0
+[  201672ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://api.omappapi.com/v2/embed/180303?d=accounts-uat.easywebinar.com:0
+[  201672ms] [ERROR] [OptinMonster] This account is not currently active. It is either expired, paused, archived, cancelled or temporarily suspended. @ https://a.omappapi.com/app/js/api.min.js:0
+[  201986ms] [LOG] %c [UTS] [fp] init color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  201991ms] [LOG] %c [UTS] [ERROR][[init] [UTC]]: Duplicate script load color: red; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  202052ms] [LOG] %c [UTS] [fp]: 99798cd48e51ead081cfdd02fd121072 color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  202257ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://user.userguiding.com/sdk/identify:0
+[  202524ms] [LOG] %c [UTS] BIP color: #ff9966; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0
+[  216074ms] [LOG] %c [UTS] No NF on page color: green; @ https://t.easywebinar.com/v1/lst/universal-script?ph=413c569b480ababbabdf70675adc62f0d3aa95e29af1a5d19a9dcdc2ad6a278d&tag=!clicked&ref_url=https://accounts-uat.easywebinar.com/signup?planId=All-In-One-USD-Yearly-200:0

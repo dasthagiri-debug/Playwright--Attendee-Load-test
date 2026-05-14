@@ -1,0 +1,50 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img "logo" [ref=e6] [cursor=pointer]
+      - button "Login" [ref=e7] [cursor=pointer]:
+        - text: Login
+        - img [ref=e9]
+    - generic [ref=e40]:
+      - heading "Turn webinars into revenue." [level=6] [ref=e41]
+      - paragraph [ref=e42]: Launch in minutes with EasyWebinar AI.
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - paragraph [ref=e45]: Name
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - textbox "John Doe" [ref=e48]
+              - group
+            - paragraph
+        - generic [ref=e49]:
+          - paragraph [ref=e50]: Work email
+          - generic [ref=e52]:
+            - textbox "john@company.com" [ref=e53]
+            - group
+        - generic [ref=e54]:
+          - paragraph [ref=e55]: Create password
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - textbox "Create a strong password" [ref=e58]
+              - group
+            - paragraph
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - paragraph [ref=e63]: 8+
+              - paragraph [ref=e66]: A-Z
+              - paragraph [ref=e69]: a-z
+              - paragraph [ref=e72]: 0-9
+              - paragraph [ref=e75]: "!@#"
+            - progressbar [ref=e78]
+      - button "Continue" [ref=e80] [cursor=pointer]
+      - paragraph [ref=e81]:
+        - text: By continuing, you agree to our
+        - link "Terms of Service" [ref=e82] [cursor=pointer]:
+          - /url: https://easywebinar.com/terms-conditions/
+        - text: and
+        - link "Privacy Policy" [ref=e83] [cursor=pointer]:
+          - /url: https://easywebinar.com/privacy/
+      - paragraph [ref=e84]:
+        - generic [ref=e85]: Already have an account?
+        - button "Log in" [ref=e86] [cursor=pointer]
+  - region "Notifications Alt+T"
